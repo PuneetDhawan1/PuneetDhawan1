@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Puneet Dhawan — Software, Finance, and Data" width="100%" />
+  <img src="./assets/banner.png" alt="Puneet Dhawan — Software, Finance, and Data" width="100%" />
 </p>
 
 <div align="center">
@@ -26,7 +26,7 @@ AI scheduling app that adjusts a user’s day when plans change and generates a 
 `Next.js` `React` `Gemini` `SQLite`
 
 <p align="center">
-  <img src="timeripple.png" alt="TimeRipple project preview" width="100%" />
+  <img src="./assets/timeripple.png" alt="TimeRipple project preview" width="100%" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ Handles sales, inventory, invoicing, customers, expenses, layaways, metal pricin
 `React` `Electron` `Express` `PostgreSQL`
 
 <p align="center">
-  <img src="retail-platform.png" alt="Retail Operations Platform preview" width="100%" />
+  <img src="./assets/retail-platform.png" alt="Retail Operations Platform preview" width="100%" />
 </p>
 
 > Source code is private to protect business data and proprietary workflows.
@@ -56,7 +56,7 @@ Includes feature engineering, triple-barrier labelling, walk-forward validation,
 `Python` `Pandas` `NumPy` `scikit-learn`
 
 <p align="center">
-  <img src="ml-equity.png" alt="ML Equity Signal System preview" width="100%" />
+  <img src="./assets/ml-equity.png" alt="ML Equity Signal System preview" width="100%" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ Interactive dashboard exploring GDP, population, life expectancy, emissions, and
 `Power BI` `Python` `Pandas` `World Bank API`
 
 <p align="center">
-  <img src="world-dashboard.png" alt="World Economic Data Dashboard preview" width="100%" />
+  <img src="./assets/world-dashboard.png" alt="World Economic Data Dashboard preview" width="100%" />
 </p>
 
 ---
