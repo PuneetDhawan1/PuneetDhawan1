@@ -172,10 +172,6 @@ I enjoy working where software, finance, and real business operations overlap—
 ---
 
 <p align="center">
-  <strong>Code × Capital × Real-World Systems</strong>
-</p>
-
-<p align="center">
   <a href="https://github.com/PuneetDhawan1?tab=repositories">Repositories</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/puneetdhawanofficial">LinkedIn</a>
