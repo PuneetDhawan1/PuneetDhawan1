@@ -1,82 +1,187 @@
-## Hi there 👋
+<div align="center">
 
-# I am Puneet Dhawan
+# Puneet Dhawan
 
-### Computer Science + Finance @ University of Calgary
+### Software Engineering × Applied AI × Finance
 
-I build full-stack software, AI/ML systems, and financial data tools—often connecting technical engineering with real operational and business problems.
+I build software that connects **technical systems, financial thinking, and real-world operations**.
 
-My interests include **software engineering, applied machine learning, financial technology, data systems, and business automation**.
+[Portfolio](YOUR_PORTFOLIO_URL) · [LinkedIn](https://www.linkedin.com/in/puneetdhawanofficial) · [Email](mailto:puneet.dhawan@ucalgary.ca)
 
-## Featured Projects
+</div>
 
-### [TimeRipple]
+---
 
-**Cursor Hackathon Finalist** — A mobile-first AI time-management application that helps users plan realistic schedules, model the ripple effects of delays, and generate recovery plans.
+## About Me
 
-`Next.js` `React` `Gemini API` `SQLite` `Tailwind CSS`
+I'm a Computer Science and Finance student at the University of Calgary, interested in building technology that solves practical, high-impact problems.
 
-### [ML Equity Signal System]
+My work spans full-stack applications, applied machine learning, financial data systems, and business automation. I especially enjoy taking complex or inefficient processes and turning them into software that is clear, reliable, and useful.
 
-A financial machine-learning pipeline using five years of market data, engineered technical features, triple-barrier labeling, walk-forward validation, and out-of-sample model comparison.
+Beyond coursework, I have built software for a real retail business, developed financial machine-learning pipelines, explored global economic data, and competed in fast-paced software hackathons.
 
-`Python` `Pandas` `NumPy` `scikit-learn` `Financial Data`
+```text
+Software Engineering  →  Reliable, user-focused applications
+Applied AI & Data     →  Models and insights grounded in real data
+Finance & Operations  →  Technology shaped by business reality
+```
 
-### Retail Operations & Accounting Platform
+---
 
-A private full-stack production system built for a real jewellery business. It connects sales, inventory, dynamic pricing, invoicing, customers, expenses, metal rates, and financial reporting in one operational platform.
+## Selected Work
 
-The source code remains private to protect business data and proprietary workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`React` `Electron` `Express.js` `PostgreSQL` `SQLite`
+### ⏳ [TimeRipple](PROJECT_LINK)
 
-### [World Economic Data Dashboard]
+**Cursor Hackathon Finalist**
 
-An interactive analytics project exploring GDP, CO₂ emissions, life expectancy, population, and development trends across more than 50 countries.
+A mobile-first AI scheduling application that models how delays affect a user's day and automatically generates realistic recovery plans.
 
-`Power BI` `Python` `Pandas` `World Bank API`
+Built in 24 hours by a three-person team, with a custom ripple-propagation scheduling engine and AI-assisted planning.
 
-### [OMG Gaming Simulator]
+**Stack:** Next.js, React, Gemini API, SQLite, Tailwind CSS
 
-A Java-based gaming platform simulator developed through a collaborative software-development lifecycle. The project applied object-oriented design, UML modelling, modular architecture, and Agile development practices.
+</td>
+<td width="50%" valign="top">
 
-`Java` `Object-Oriented Design` `UML` `Agile`
+### 📈 [ML Equity Signal System](PROJECT_LINK)
+
+A financial machine-learning research pipeline for generating and evaluating equity trading signals using five years of historical market data.
+
+Includes engineered technical features, triple-barrier labelling, walk-forward validation, and out-of-sample model comparison.
+
+**Stack:** Python, Pandas, NumPy, scikit-learn
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💎 Retail Operations Platform
+
+**Private Production System**
+
+A full-stack business platform developed for a jewellery retailer generating more than $1M in annual revenue.
+
+The system integrates sales, inventory, barcode tracking, customer management, invoicing, expenses, dynamic metal pricing, layaways, and financial reporting.
+
+The source code remains private to protect customer data and proprietary business workflows.
+
+**Stack:** React, Electron, Express.js, PostgreSQL, SQLite
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 [World Economic Data Dashboard](PROJECT_LINK)
+
+An interactive analytics platform examining relationships between GDP, population, life expectancy, and CO₂ emissions across more than 50 countries.
+
+Data was collected and transformed using the World Bank API before being modelled and visualized in Power BI.
+
+**Stack:** Power BI, Python, Pandas, World Bank API
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 [OMG Gaming Simulator](PROJECT_LINK)
+
+A Java gaming-platform simulator developed through a collaborative, 25-person software development lifecycle.
+
+The project applied object-oriented architecture, UML modelling, modular development, testing, and Agile practices.
+
+**Stack:** Java, OOP, UML, Agile
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Currently Building
+
+* Production-quality full-stack applications
+* Applied AI tools with practical use cases
+* Financial technology and analytics systems
+* Open-source projects and developer tools
+* Software for operational automation
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Technical Toolkit
 
-**Languages:** Python, JavaScript, SQL, C, C++, Java, R
-**Web & Application:** React, Next.js, Electron, Express.js, REST APIs
-**AI & Data:** Pandas, NumPy, scikit-learn, TensorFlow, Keras, Power BI
-**Databases:** PostgreSQL, SQLite
-**Engineering:** Git, GitHub, testing, CI/CD, OOP, Agile/Scrum, UML
+### Languages
 
-## What I Bring
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square\&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=postgresql)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square\&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-111111?style=flat-square\&logo=cplusplus)
+![C](https://img.shields.io/badge/C-111111?style=flat-square\&logo=c)
+![R](https://img.shields.io/badge/R-111111?style=flat-square\&logo=r)
 
-* Technical experience across software, AI/data, and financial systems
-* Product thinking shaped by building software for real business operations
-* Experience turning ambiguous problems into practical, working systems
-* A cross-disciplinary perspective from computer science and finance
+### Applications and Web
 
-## Currently Exploring
+![React](https://img.shields.io/badge/React-111111?style=flat-square\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square\&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square\&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-111111?style=flat-square\&logo=express)
+![Electron](https://img.shields.io/badge/Electron-111111?style=flat-square\&logo=electron)
+![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=flat-square)
 
-Applied AI systems, production-quality software engineering, financial technology, open-source development, and data-driven products.
+### AI, Data and Finance
 
-## Connect
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=flat-square\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=flat-square\&logo=numpy)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square\&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat-square\&logo=tensorflow)
+![Power BI](https://img.shields.io/badge/Power_BI-111111?style=flat-square\&logo=powerbi)
 
-[LinkedIn](www.linkedin.com/in/puneetdhawanofficial) · [Portfolio] · [Email](mailto:puneet.dhawan@ucalgary.ca)
+### Databases and Engineering
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square\&logo=postgresql)
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square\&logo=sqlite)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-111111?style=flat-square\&logo=githubactions)
 
-<!--
-**PuneetDhawan1/PuneetDhawan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## How I Approach Problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am most interested in work where technology must do more than function in isolation.
+
+I like understanding the underlying user, business, or financial problem; designing the system around that reality; and then building something that can be tested, improved, and used.
+
+That approach has shaped projects ranging from AI scheduling and market-signal research to software supporting daily retail operations.
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=PuneetDhawan1&show_icons=true&hide_border=true&theme=transparent&hide_title=true" alt="Puneet's GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PuneetDhawan1&layout=compact&hide_border=true&theme=transparent&hide_title=true" alt="Puneet's most used languages" />
+
+</div>
+
+> GitHub statistics represent public repositories only. Several of my largest production projects are maintained privately.
+
+---
+
+<div align="center">
+
+### Building at the intersection of code, capital, and real-world systems.
+
+[Explore My Projects](https://github.com/PuneetDhawan1?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/puneetdhawanofficial)
+
+</div>
