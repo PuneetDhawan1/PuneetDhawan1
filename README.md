@@ -1,98 +1,131 @@
 <p align="center">
-  <img src="/banner.png" alt="Puneet Dhawan — Software, Finance, and Data" width="100%" />
+  <img
+    src="./Git_banner.png"
+    alt="Puneet Dhawan — Software, Finance, and Data"
+    width="100%"
+  />
 </p>
 
-<div align="center">
+<p align="center">
+  <strong>Computer Science + Finance @ University of Calgary</strong>
+</p>
 
-### Computer Science + Finance @ University of Calgary
+<p align="center">
+  I build practical systems across full-stack software, applied AI, data, and finance.
+</p>
 
-I build practical software across
-**full-stack development, applied AI, data, and financial systems.**
-
-[LinkedIn](https://www.linkedin.com/in/puneetdhawanofficial) · [Portfolio](YOUR_PORTFOLIO_URL) · [Email](mailto:puneet.dhawan@ucalgary.ca)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/puneetdhawanofficial">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:puneet.dhawan@ucalgary.ca">Email</a>
+</p>
 
 ---
 
 ## Selected Work
 
-### [TimeRipple](PROJECT_LINK)
+### [TimeRipple](https://github.com/PuneetDhawan1/CursorHackathon)
 
 **Cursor Hackathon Finalist**
 
-AI scheduling app that adjusts a user’s day when plans change and generates a realistic recovery plan.
+An AI scheduling application that adapts a user's day when plans change, models the ripple effects of delays, and generates realistic recovery plans.
 
-`Next.js` `React` `Gemini` `SQLite`
+`Next.js` `React` `Gemini API` `SQLite`
 
 <p align="center">
-  <img src="./assets/timeripple.png" alt="TimeRipple project preview" width="100%" />
+  <a href="https://github.com/PuneetDhawan1/CursorHackathon">
+    <img
+      src="./TimeRipple.png"
+      alt="TimeRipple project preview"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
 
 ### Retail Operations Platform
 
-Private production system built for a real jewellery business.
+A private production system built for a real jewellery business.
 
-Handles sales, inventory, invoicing, customers, expenses, layaways, metal pricing, and financial reporting.
+It connects sales, inventory, barcode tracking, invoicing, customers, expenses, layaways, metal pricing, and financial reporting in one platform.
 
-`React` `Electron` `Express` `PostgreSQL`
+`React` `Electron` `Express.js` `PostgreSQL`
 
 <p align="center">
-  <img src="./assets/retail-platform.png" alt="Retail Operations Platform preview" width="100%" />
+  <img
+    src="./RetailAutomation.png"
+    alt="Retail Operations Platform preview"
+    width="100%"
+  />
 </p>
 
-> Source code is private to protect business data and proprietary workflows.
+<sub>Source code is private to protect business data and proprietary workflows.</sub>
 
 ---
 
-### [ML Equity Signal System](PROJECT_LINK)
+### [ML Equity Signal System](YOUR_ML_PROJECT_URL)
 
-Machine-learning pipeline for researching and testing equity signals using historical market data.
+A machine-learning research pipeline for testing equity signals using five years of historical market data.
 
 Includes feature engineering, triple-barrier labelling, walk-forward validation, and out-of-sample evaluation.
 
 `Python` `Pandas` `NumPy` `scikit-learn`
 
 <p align="center">
-  <img src="./assets/ml-equity.png" alt="ML Equity Signal System preview" width="100%" />
+  <a href="YOUR_ML_PROJECT_URL">
+    <img
+      src="./ML_EquitySignalSystem.png"
+      alt="ML Equity Signal System preview"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
 
-### [World Economic Data Dashboard](PROJECT_LINK)
+### [World Economic Data Dashboard](YOUR_WORLD_DATA_PROJECT_URL)
 
-Interactive dashboard exploring GDP, population, life expectancy, emissions, and development trends across more than 50 countries.
+An interactive analytics project exploring GDP, population, life expectancy, emissions, and development trends across more than 50 countries.
 
 `Power BI` `Python` `Pandas` `World Bank API`
 
 <p align="center">
-  <img src="./assets/world-dashboard.png" alt="World Economic Data Dashboard preview" width="100%" />
+  <a href="YOUR_WORLD_DATA_PROJECT_URL">
+    <img
+      src="./World_Economics_Data.png"
+      alt="World Economic Data Dashboard preview"
+      width="100%"
+    />
+  </a>
 </p>
 
 ---
 
 ## Technical Toolkit
 
-**Languages**
+**Languages**  
 `Python` `JavaScript` `SQL` `Java` `C` `C++` `R`
 
-**Web & Applications**
-`React` `Next.js` `Electron` `Express` `REST APIs`
+**Applications**  
+`React` `Next.js` `Electron` `Express.js` `REST APIs`
 
-**AI & Data**
+**AI & Data**  
 `Pandas` `NumPy` `scikit-learn` `TensorFlow` `Keras` `Power BI`
 
-**Databases & Tools**
-`PostgreSQL` `SQLite` `Git` `GitHub` `CI/CD` `Testing`
+**Databases & Engineering**  
+`PostgreSQL` `SQLite` `Git` `GitHub` `Testing` `CI/CD`
 
 ---
 
-<div align="center">
+<p align="center">
+  <strong>Software shaped by real business problems.</strong>
+</p>
 
-### Software built with business context.
-
-[View Repositories](https://github.com/PuneetDhawan1?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/puneetdhawanofficial)
-
-</div>
+<p align="center">
+  <a href="https://github.com/PuneetDhawan1?tab=repositories">View my repositories</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/puneetdhawanofficial">Connect on LinkedIn</a>
+</p>
