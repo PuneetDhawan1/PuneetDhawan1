@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Puneet Dhawan — Software, Finance, and Data" width="100%" />
+  <img src="/banner.png" alt="Puneet Dhawan — Software, Finance, and Data" width="100%" />
 </p>
 
 <div align="center">
